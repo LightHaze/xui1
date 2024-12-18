@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/LightHaze/xui.one-installer">
+  <a href="https://github.com/LightHaze/xui1">
     <img src="./assets//logo.png" alt="Logo" width="250" height="200">
   </a>
 
@@ -40,7 +40,7 @@ Ensure you have the following installed on your system:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/LightHaze/xui.one-installer.git
+   git clone https://github.com/LightHaze/xui1.git
    cd xui.one-installer
    ```
 
@@ -72,5 +72,5 @@ docker-compose logs
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/Itz-Agasta/xui.one-installer/blob/main/License). See the LICENSE file for more details.
+This project is licensed under the [MIT License](https://github.com/LightHaze/xui1/blob/main/License). See the LICENSE file for more details.
 
