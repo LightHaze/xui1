@@ -41,7 +41,7 @@ Ensure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/LightHaze/xui1.git
-   cd xui.one-installer
+   cd xui1
    ```
 
 2. **Build and Run the Docker Containers**
